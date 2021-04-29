@@ -42,3 +42,9 @@ Finally we can start and use our emulator:
 ```sh
 emulator @test
 ```
+
+To use the emulator with flutter run:
+
+```sh
+flutter emulators --launch test
+```
