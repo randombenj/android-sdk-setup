@@ -30,9 +30,9 @@ First you need the `sdkmanager` to download and manage all the other tools like 
 Go to the download page and download page (https://developer.android.com/studio/index.html#command-tools) and
 download `sdk-tools-linux-*.zip`.
 
-You can install them anywhere, in this example we will use `~/bin/android-sdk`
+The folder **must be called**: `cmdline-tools/latest`, we will put it to `~/bin`
 
-*Note: You will need to add `~/bin/android-sdk/tools/bin` to your `PATH`*
+*Note: You will need to add `~/bin/cmdline-tools/latest` to your `PATH`*
 
 **Install android dev tools using sdkmanager**
 
